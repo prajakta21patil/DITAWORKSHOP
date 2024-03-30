@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="parts">
+    <title>Parts List</title>
+    <refbody>
+        <section id="section_ihg_2rn_v1c">
+            <p>A description of the individual parts and part numbers comprising the <ph
+                    keyref="computer_name"/>
+                <ph keyref="peripheral_name"/>
+            </p>
+        </section>
+        <table frame="all" rowsep="0" colsep="0" id="table_tbb_5rn_v1c">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry align="left"><b><ph keyref="peripheral_name"/></b></entry>
+                        <entry align="left"><b>#</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Door, Mini-Disk</entry>
+                        <entry>1400212</entry>
+                    </row>
+                    <row>
+                        <entry>Door, Line Printer</entry>
+                        <entry>1400212</entry>
+                    </row>
+                    <row>
+                        <entry>Door, Screen Printer</entry>
+                        <entry>1400216</entry>
+                    </row>
+                    <row>
+                        <entry>Door, Future Expansion Board</entry>
+                        <entry>1400216</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Mini-Disk</entry>
+                        <entry>1400213</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Line Printer</entry>
+                        <entry>1400213</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Screen Printer</entry>
+                        <entry>1400218</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Future Expansion Board</entry>
+                        <entry>1400218</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>Hood, TRS-80Microcomputer System</p>
+                        </entry>
+                        <entry>1400214</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="0" colsep="0" id="table_jpj_ksn_v1c">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry align="left"><ph keyref="computer_name"/> MICROCUMPUTER
+                            SYSTEM</entry>
+                        <entry align="left"><b>#</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Door</entry>
+                        <entry>1400083</entry>
+                    </row>
+                    <row>
+                        <entry>Hood</entry>
+                        <entry>1400217</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
